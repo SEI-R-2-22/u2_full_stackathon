@@ -47,7 +47,11 @@ In this group project, you will have **_one full day_** to create an assigned Fu
 - Reasonably styled
 - Deployed to Heroku
 
-# **FINAL PRODUCT DUE: Friday, February 26th at 1:30PM EST (complete or not)**
+---
+
+### **FINAL PRODUCT DUE: Friday, February 26th at 1:30PM EST (complete or not)**
+
+---
 
 ## Deployment
 

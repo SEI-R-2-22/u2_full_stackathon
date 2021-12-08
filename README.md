@@ -4,7 +4,9 @@
 
 ## Overview
 
-In this group project, you will have **_one full day_** to create an assigned Full Stack Application. This will include a **React frontend**, a **MongoDB database**, and a **Mongoose/Express backend**. How you distribute the work within your group will be up to you. By the end of the hackathon, you will be expected to have a _working_, _reasonably styled_, and _deployed_ app. Have fun!
+In this group project, you will have **_one full day_** to create a **theme park themed** Full Stack Application. This will include a **React frontend**, a **MongoDB database**, and a **Mongoose/Express backend**. How you distribute the work within your group will be up to you. By the end of the hackathon, you will be expected to have a _working_, _reasonably styled_, and _deployed_ app. Have fun!
+
+![RTC](https://i.pinimg.com/originals/0f/06/1c/0f061ca920c14da63d05ccbb051762f4.gif)
 
 ## Instructions
 
@@ -38,6 +40,8 @@ In this group project, you will have **_one full day_** to create an assigned Fu
 - Deploy the Express Server with Heroku
 - Deploy the React App with Heroku
 
+![Oops](https://i.pinimg.com/originals/c9/98/27/c998277875507777af62b5be689f58f9.gif)
+
 ## Requirements
 
 - Get (Read)
@@ -49,7 +53,7 @@ In this group project, you will have **_one full day_** to create an assigned Fu
 
 ---
 
-### **FINAL PRODUCT DUE: Friday, August 27th at 2:30PM EST (complete or not)**
+### **FINAL PRODUCT DUE: Wednesday, December 15th at 8:00AM EST (complete or not)**
 
 ---
 

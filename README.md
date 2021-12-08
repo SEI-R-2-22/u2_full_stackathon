@@ -8,7 +8,7 @@ In this group project, you will have **_one full day_** to create an assigned Fu
 
 ## Instructions
 
-- Choose a team git master/czar to handle pull requests from team members
+- Choose a team git boss/czar/fairy to handle pull requests from team members
 - Build your own API with:
   - A MongoDB database connected to mongoose
   - Mongoose schemas and models

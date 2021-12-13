@@ -53,7 +53,7 @@ In this group project, you will have **_a day and a half_** to create a **theme 
 
 ---
 
-### **FINAL PRODUCT DUE: Wednesday, December 15th at 8:00AM EST (complete or not)**
+### **FINAL PRODUCT DUE: Wednesday, December 15th at 9:00AM EST (complete or not)**
 
 ---
 

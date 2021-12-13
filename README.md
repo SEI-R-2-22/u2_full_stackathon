@@ -4,7 +4,7 @@
 
 ## Overview
 
-In this group project, you will have **_one full day_** to create a **theme park themed** Full Stack Application. This will include a **React frontend**, a **MongoDB database**, and a **Mongoose/Express backend**. How you distribute the work within your group will be up to you. By the end of the hackathon, you will be expected to have a _working_, _reasonably styled_, and _deployed_ app. Have fun!
+In this group project, you will have **_a day and a half_** to create a **theme park themed** Full Stack Application. This will include a **React frontend**, a **MongoDB database**, and a **Mongoose/Express backend**. How you distribute the work within your group will be up to you. By the end of the hackathon, you will be expected to have a _working_, _reasonably styled_, and _deployed_ app. Have fun!
 
 ![RTC](https://i.pinimg.com/originals/0f/06/1c/0f061ca920c14da63d05ccbb051762f4.gif)
 

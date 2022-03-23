@@ -53,7 +53,7 @@ In this group project, you will have **_a day and a half_** to create a **theme 
 
 ---
 
-### **FINAL PRODUCT DUE: Wednesday, December 15th at 9:00AM EST (complete or not)**
+### **FINAL PRODUCT DUE: Friday, March 25th at 9:00AM EST (complete or not)**
 
 ---
 
@@ -64,14 +64,14 @@ We'll be using MongoDB Atlas to host our database on the cloud, sign up for an a
 
 We'll be utilizing Express to display our react app once we deploy. We'll cover these steps on the final day with a guided deployment walkthrough.
 
-In preparation for deployment, you should have a `client` folder containing your React app. And your base project folder should contain your server code.
+In preparation for deployment, you should have a `client` folder containing your React app and a seperate `server` folder containing your Express app.
 
 The folder structure should look like this:
 
 ```
 .
-├── README.md
 ├── client
+|   |-- README.md
 │   ├── package.json
 │   ├── public
 │   │   ├── favicon.ico
@@ -86,15 +86,16 @@ The folder structure should look like this:
 │   │   ├── index.css
 │   │   └── index.js
 │   └── yarn.lock
-├── controllers
-│   ├── Controller1.js
-│   └── Controller2.js
-├── db
-│   └── index.js
-├── models
-│   ├── Model1.js
-│   ├── Model2.js
-│   └── index.js
-├── package.json
-└── server.js
+|--server
+|   ├── controllers
+|   │   ├── Controller1.js
+|   │   └── Controller2.js
+|   ├── db
+|   │   └── index.js
+|   ├── models
+|   │   ├── Model1.js
+|   │   ├── Model2.js
+|   │   └── index.js
+|   ├── package.json
+|   └── server.js
 ```
